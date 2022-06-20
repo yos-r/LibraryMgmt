@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/livres/LivresRegular.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/emprunts/Emprunt.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/livres/LivresGestion.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/emprunts/EmpruntsAdmin.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/livres/LivreFileIsbnUI.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/livres/Livre.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/authentication/HomepageRegular.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/authentication/UserFileUI.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/authentication/init.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/livres/LivreFileTitreUI.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/livres/LivresAdmin.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/authentication/Loggingin.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/authentication/UsersAdmin.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/emprunts/EmpruntsGestion.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/emprunts/EmpruntRetourUI.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/livres/LivreFileAuteurUI.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/authentication/initdb.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/authentication/UsersDB.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/authentication/HomepageAdmin.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/emprunts/EmpruntFileCinUI.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/authentication/User.java</file>
+            <file>file:/C:/Users/yosr/My%20Drive/GestionLibrairieMiniProjet/src/emprunts/EmpruntFileIsbnUI.java</file>
+        </group>
+    </open-files>
+</project-private>
